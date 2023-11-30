@@ -1,0 +1,88 @@
+{
+  "name": "Davinci",
+  "author": "Gabriel Batista",
+  "displayName": "Davinci",
+  "description": "Modern and Soft theme for VSCode",
+  "version": "1.18.1",
+  "publisher": "GabrielBatista",
+  "license": "MIT",
+  "scripts": {
+    "py": "python3 ./script/themeGenerate.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gabriel3atista/davinci-theme"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "vscode",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mona Lisa - Smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monalisa.json"
+      },
+      {
+        "label": "Mona Lisa - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monalisaDark.json"
+      },
+      {
+        "label": "Vitruvian Man - Smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitruvianMan.json"
+      },
+      {
+        "label": "Vitruvian Man - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitruvianManDark.json"
+      },
+      {
+        "label": "Mary Magdalene - Smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maryMagdalene.json"
+      },
+      {
+        "label": "Mary Magdalene - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maryMagdaleneDark.json"
+      },
+      {
+        "label": "Luca Pacioli - Smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lucaPacioli.json"
+      },
+      {
+        "label": "Luca Pacioli - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lucaPacioliDark.json"
+      },
+      {
+        "label": "La Bella - Smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/laBella.json"
+      },
+      {
+        "label": "La Bella - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/laBellaDark.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "dependencies": {
+    "nvm": "^0.0.4"
+  }
+}
