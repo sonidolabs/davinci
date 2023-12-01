@@ -24,7 +24,7 @@ This extension is licensed under the [MIT License](https://opensource.org/licens
 
 <br>
 
-Repository: https://github.com/Gabriel3atista/davinci-theme
+Repository: https://github.com/sonidolabs/davinci
 
 <br>
 
