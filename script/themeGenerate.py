@@ -12,6 +12,9 @@ dark3 = '#131418'
 # Inputs & Menus
 dark4 = '#202128'
 
+# Dropdowns & Others
+dark5 = '#202128'
+
 mainColor = '#F4AFD2'
 mainColorHover = '#F4AFD2AA'
 foreground = '#9D9AB1'
@@ -304,7 +307,7 @@ data = {
     "checkbox.background": border,
     "checkbox.foreground": "#ffffff",
     "checkbox.border": transparent,
-    "dropdown.background": border,
+    "dropdown.background": dark5,
     "dropdown.foreground": "#ffffff",
     "dropdown.border": transparent,
     "minimapGutter.addedBackground": "#57fdaf",

@@ -248,7 +248,7 @@
         "checkbox.background": "#38374E88",
         "checkbox.foreground": "#ffffff",
         "checkbox.border": "#00000000",
-        "dropdown.background": "#38374E88",
+        "dropdown.background": "#25262e",
         "dropdown.foreground": "#ffffff",
         "dropdown.border": "#00000000",
         "minimapGutter.addedBackground": "#57fdaf",
