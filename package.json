@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonidolabs/davinci-theme"
+    "url": "https://github.com/sonidolabs/davinci"
   },
   "icon": "icon.png",
   "engines": {
