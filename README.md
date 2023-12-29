@@ -8,9 +8,9 @@ Tradução: [Português Brasileiro](./README.pt-BR.md)
 
 ### Support and Contribution
 
-If you encounter any issues or have suggestions for improvement, feel free to open an [issue](https://github.com/Gabriel3atista/davinci-theme/issues) in the GitHub repository.
+If you encounter any issues or have suggestions for improvement, feel free to open an [issue](https://github.com/sonidolabs/davinci-theme/issues) in the GitHub repository.
 
-We also encourage contributions to make this theme even better. If you would like to contribute, please open a [pull request](https://github.com/Gabriel3atista/davinci-theme/pulls) in the repository.
+We also encourage contributions to make this theme even better. If you would like to contribute, please open a [pull request](https://github.com/sonidolabs/davinci-theme/pulls) in the repository.
 
 <br>
 

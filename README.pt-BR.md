@@ -8,9 +8,9 @@ Translation: [English](./README.md)
 
 ### Suporte e Contribuição
 
-Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/Gabriel3atista/davinci-theme/issues) no repositório do GitHub.
+Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/sonidolabs/davinci-theme/issues) no repositório do GitHub.
 
-Também encorajamos contribuições para tornar este tema ainda melhor. Se você deseja contribuir, por favor abra uma [pull request](https://github.com/Gabriel3atista/davinci-theme/pulls) no repositório.
+Também encorajamos contribuições para tornar este tema ainda melhor. Se você deseja contribuir, por favor abra uma [pull request](https://github.com/sonidolabs/davinci-theme/pulls) no repositório.
 
 <br>
 
@@ -24,7 +24,7 @@ Esta extensão está licenciada sob a [Licença MIT](https://opensource.org/lice
 
 <br>
 
-Repositório: https://github.com/Gabriel3atista/davinci-theme
+Repositório: https://github.com/sonidolabs/davinci-theme
 
 <br>
 
