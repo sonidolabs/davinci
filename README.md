@@ -2,7 +2,7 @@ Tradução: [Português Brasileiro](./README.pt-BR.md)
 
 <br>
 
-<img src="imgs/README-EN-US.png" alt="Screenshot of Visual Studio Code using Davinci theme" />
+<img src="./src/imgs/README-EN-US.png" alt="Screenshot of Visual Studio Code using Davinci theme" />
 
 <br>
 
