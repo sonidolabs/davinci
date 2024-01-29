@@ -2,12 +2,12 @@
   "name": "Davinci",
   "author": "Gabriel Batista",
   "displayName": "Davinci",
-  "description": "Modern and Soft theme for VSCode",
+  "description": "Modern and Soft theme for VSCode based on Leonardo Da Vinci masterpieces.",
   "version": "1.18.4",
   "publisher": "GabrielBatista",
   "license": "MIT",
   "scripts": {
-    "py": "python3 ./script/themeGenerate.py"
+    "py": "python3 ./src/scripts/themeGenerator.py"
   },
   "repository": {
     "type": "git",
@@ -30,52 +30,52 @@
       {
         "label": "Mona Lisa - Smooth",
         "uiTheme": "vs-dark",
-        "path": "./themes/monalisa.json"
+        "path": "./src/themes/monalisa.json"
       },
       {
         "label": "Mona Lisa - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/monalisaDark.json"
+        "path": "./src/themes/monalisaDark.json"
       },
       {
         "label": "Vitruvian Man - Smooth",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitruvianMan.json"
+        "path": "./src/themes/vitruvianMan.json"
       },
       {
         "label": "Vitruvian Man - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitruvianManDark.json"
+        "path": "./src/themes/vitruvianManDark.json"
       },
       {
         "label": "Mary Magdalene - Smooth",
         "uiTheme": "vs-dark",
-        "path": "./themes/maryMagdalene.json"
+        "path": "./src/themes/maryMagdalene.json"
       },
       {
         "label": "Mary Magdalene - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/maryMagdaleneDark.json"
+        "path": "./src/themes/maryMagdaleneDark.json"
       },
       {
         "label": "Luca Pacioli - Smooth",
         "uiTheme": "vs-dark",
-        "path": "./themes/lucaPacioli.json"
+        "path": "./src/themes/lucaPacioli.json"
       },
       {
         "label": "Luca Pacioli - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/lucaPacioliDark.json"
+        "path": "./src/themes/lucaPacioliDark.json"
       },
       {
         "label": "La Bella - Smooth",
         "uiTheme": "vs-dark",
-        "path": "./themes/laBella.json"
+        "path": "./src/themes/laBella.json"
       },
       {
         "label": "La Bella - Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/laBellaDark.json"
+        "path": "./src/themes/laBellaDark.json"
       }
     ]
   },
