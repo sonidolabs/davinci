@@ -76,6 +76,11 @@
         "label": "La Bella - Dark",
         "uiTheme": "vs-dark",
         "path": "./src/themes/laBellaDark.json"
+      },
+      {
+        "label": "Davinci - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/davinci.json"
       }
     ]
   },
